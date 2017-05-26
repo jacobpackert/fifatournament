@@ -51,3 +51,6 @@ let assignTeams = setTimeout(function() {
   console.log(assignments);
   // console.log(assignments);
 }, 2000);
+
+
+// Now we can push the content of assignments objects to divs in the HTML dynamically and generate a view of the teams. Pretty neat.
